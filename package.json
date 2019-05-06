@@ -1,0 +1,8 @@
+{
+  "name": "linkdrop-claim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LinkdropProtocol/linkdrop-claim.git",
+  "author": "spacehaz <spacehaz@gmail.com>",
+  "license": "MIT"
+}
