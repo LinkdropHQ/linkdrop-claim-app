@@ -1,8 +1,7 @@
 {
-  "name": "linkdrop-claim",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/LinkdropProtocol/linkdrop-claim.git",
-  "author": "spacehaz <spacehaz@gmail.com>",
-  "license": "MIT"
+  "name": "Linkdrop-App-Claim",
+  "version": "2.0.0",
+  "description": "Front end part for linkdrop app to claim tokens",
+  "author": "",
+  "license": "ISC"
 }
